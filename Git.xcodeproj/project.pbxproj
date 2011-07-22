@@ -23,14 +23,14 @@
 		DF9F877213D97B5A002E9BE3 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		DF9F877413D97B5A002E9BE3 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		DF9F877613D97B5A002E9BE3 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		DF9F877A13D97B5A002E9BE3 /* Git-Info.plist */ = {isa = PBXFileReference; path = "Git-Info.plist"; sourceTree = "<group>"; };
+		DF9F877A13D97B5A002E9BE3 /* Git-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Git-Info.plist"; sourceTree = "<group>"; };
 		DF9F877C13D97B5A002E9BE3 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		DF9F877E13D97B5A002E9BE3 /* Git-Prefix.pch */ = {isa = PBXFileReference; path = "Git-Prefix.pch"; sourceTree = "<group>"; };
+		DF9F877E13D97B5A002E9BE3 /* Git-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Git-Prefix.pch"; sourceTree = "<group>"; };
 		DF9F877F13D97B5A002E9BE3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		DF9F878113D97B5A002E9BE3 /* GitAppDelegate.h */ = {isa = PBXFileReference; path = GitAppDelegate.h; sourceTree = "<group>"; };
+		DF9F878113D97B5A002E9BE3 /* GitAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GitAppDelegate.h; sourceTree = "<group>"; };
 		DF9F878213D97B5A002E9BE3 /* GitAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GitAppDelegate.m; sourceTree = "<group>"; };
 		DF9F878513D97B5A002E9BE3 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		DF9F878713D97B5A002E9BE3 /* GitViewController.h */ = {isa = PBXFileReference; path = GitViewController.h; sourceTree = "<group>"; };
+		DF9F878713D97B5A002E9BE3 /* GitViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GitViewController.h; sourceTree = "<group>"; };
 		DF9F878813D97B5A002E9BE3 /* GitViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GitViewController.m; sourceTree = "<group>"; };
 		DF9F878B13D97B5A002E9BE3 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/GitViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
